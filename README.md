@@ -139,13 +139,13 @@ Based in Stockport, Cheshire 🇬🇧
 
 ## 🚀 Current Focus
 
+- Tales From The Hat
+- Open Source Projects
 - Linux Infrastructure
 - UniFi Networking
 - Azure & Microsoft 365
 - AI Assisted Automation
 - Monitoring & Alerting
-- Open Source Projects
-- Tales From The Hat
 
 ---
 
