@@ -37,7 +37,7 @@
 ## 🎩 About Me
 
 I'm the creator of **Tales From The Hat** 
-https://linktr.ee/Talesfromthehat
+**https://linktr.ee/Talesfromthehat**
 with a passion for:
 
 - Linux Infrastructure
