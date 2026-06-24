@@ -36,7 +36,9 @@
 
 ## 🎩 About Me
 
-I'm the creator of **Tales From The Hat** with a passion for:
+I'm the creator of **Tales From The Hat** 
+https://linktr.ee/Talesfromthehat
+with a passion for:
 
 - Linux Infrastructure
 - Enterprise Networking
@@ -139,7 +141,7 @@ Based in Stockport, Cheshire 🇬🇧
 
 ## 🚀 Current Focus
 
-- Tales From The Hat
+- Tales From The Hat - https://linktr.ee/Talesfromthehat
 - Open Source Projects
 - Linux Infrastructure
 - UniFi Networking
