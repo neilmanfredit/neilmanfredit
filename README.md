@@ -141,7 +141,7 @@ Based in Stockport, Cheshire 🇬🇧
 
 ## 🚀 Current Focus
 
-- Tales From The Hat - https://linktr.ee/Talesfromthehat
+- **Tales From The Hat** - **https://linktr.ee/Talesfromthehat**
 - Open Source Projects
 - Linux Infrastructure
 - UniFi Networking
@@ -153,7 +153,7 @@ Based in Stockport, Cheshire 🇬🇧
 
 <div align="center">
 
-### 🎩 Tales From The Hat
+### 🎩 Tales From The Hat - **https://linktr.ee/Talesfromthehat**
 
 Linux • Networking • Cloud • Automation • AI
 
