@@ -4,7 +4,7 @@
 
 # Neil Manfred
 
-### Founder • Linux Infrastructure • Networking • Cloud • Automation • AI
+### Linux Infrastructure • Networking • Cloud • Automation • AI
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Linux+Infrastructure+Architect;UniFi+%26+Networking;Azure+%26+Microsoft+365;Monitoring+%26+Automation;Open+Source+Advocate" alt="Typing SVG" />
@@ -36,7 +36,7 @@
 
 ## 🎩 About Me
 
-I'm the founder of **Tales From The Hat** with a passion for:
+I'm the creator of **Tales From The Hat** with a passion for:
 
 - Linux Infrastructure
 - Enterprise Networking
