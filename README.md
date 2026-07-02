@@ -4,7 +4,7 @@
 
 # Neil Manfred
 
-### Linux Infrastructure • Networking • Cloud • Automation • AI
+### Linux Infrastructure • Networking • Cloud • Automation • AI • 3D Printing
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Linux+Infrastructure+Architect;UniFi+%26+Networking;Azure+%26+Microsoft+365;Monitoring+%26+Automation;Open+Source+Advocate" alt="Typing SVG" />
@@ -170,6 +170,6 @@ Parametric CAD and mechanical design for hardware projects, printed on a Bambu L
 
 ### 🎩 Tales From The Hat - **https://linktr.ee/Talesfromthehat**
 
-Linux • Networking • Cloud • Automation • AI
+Linux • Networking • Cloud • Automation • AI • 3D Printing
 
 </div>
