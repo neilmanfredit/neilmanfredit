@@ -49,6 +49,7 @@ with a passion for:
 - Monitoring & Observability
 - Automation & Scripting
 - AI Powered Workflows
+- 3D Printing & Parametric CAD
 - Open Source Technologies
 
 Based in Stockport, Cheshire 🇬🇧
@@ -114,6 +115,19 @@ Based in Stockport, Cheshire 🇬🇧
 
 ---
 
+🖨️ 3D Printing & CAD
+
+<p>
+  <img src="https://img.shields.io/badge/Bambu_Lab_H2S-00AEEF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/OpenSCAD-F9D72C?style=for-the-badge&logo=openscad&logoColor=black">
+  <img src="https://img.shields.io/badge/PETG-1793D1?style=for-the-badge">
+  <img src="https://img.shields.io/badge/PA--CF_%2F_PAHT--CF-4B4B4B?style=for-the-badge">
+  <img src="https://img.shields.io/badge/3MF-orange?style=for-the-badge">
+</p>
+Parametric CAD and mechanical design for hardware projects, printed on a Bambu Lab H2S. Recent builds include a DIY strain wave (harmonic drive) German equatorial mount, an automated dome for the ZWO Seestar S50, an ESP32-S3 telescope focuser, and 4-axis and 5-axis robotic arms. All designs are parametric, version-controlled, and licensed CC BY-NC-SA 4.0.
+
+---
+
 ## 💻 Languages & Scripting
 
 <p>
@@ -147,6 +161,7 @@ Based in Stockport, Cheshire 🇬🇧
 - UniFi Networking
 - Azure & Microsoft 365
 - AI Assisted Automation
+- 3D Printing & Astronomy Hardware Builds
 - Monitoring & Alerting
 
 ---
