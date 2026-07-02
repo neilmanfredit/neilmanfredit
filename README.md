@@ -115,7 +115,7 @@ Based in Stockport, Cheshire 🇬🇧
 
 ---
 
-🖨️ 3D Printing & CAD
+## 🖨️ 3D Printing & CAD
 
 <p>
   <img src="https://img.shields.io/badge/Bambu_Lab_H2S-00AEEF?style=for-the-badge">
