@@ -22,18 +22,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-https://github-readme-stats.vercel.app/api?username=neilmanfredit&show_icons=true&theme=github_dark&hide_border=true
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=neilmanfredit&layout=compact&theme=github_dark&hide_border=true
-
-</div>
-
----
-
 ## 🎩 About Me
 
 I'm the creator of **Tales From The Hat** 
